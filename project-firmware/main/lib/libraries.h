@@ -1,0 +1,14 @@
+#include     <WiFiManager.h>
+#include     <WiFi.h>
+#include     <WiFiClientSecure.h>
+#include     <HTTPClient.h>
+#include     "HttpsOTAUpdate.h"
+#include     <otadrive_esp.h>
+#include     "nvs_flash.h"
+#include     <DHT.h>
+#include     <hcsr04.h>
+#include     "RTClib.h"
+#include     "time.h"
+#include     <esp_sleep.h>
+#include     <Wire.h>
+#include     <LiquidCrystal_I2C.h>

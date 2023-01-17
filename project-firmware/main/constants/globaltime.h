@@ -1,0 +1,10 @@
+static int  __lastMeasurementSubmitted__    = 0;
+static int  __lastMeasurement__             = 0;
+static int  __lastTimelightOn__             = 0;
+static int  __lastVerifyUpdateFirmware__    = 0;
+static int  __lastVerifyUpdateSettings__    = 0;
+static int  __timeDisplay__                 = 0;
+static int  __countDisconnect__             = 0;
+static int  __countConnect__                = 0;
+static bool __adviceUpdateFirmware__        = false;
+static char __weekdays__[7][12] = {"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"};

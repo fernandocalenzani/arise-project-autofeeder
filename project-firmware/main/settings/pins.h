@@ -1,0 +1,14 @@
+#define PIN_LED_WIFI        2
+#define PIN_LED_BLUE        5
+#define PIN_BTN_DISPLAY     12
+#define PIN_RELE_MOTOR      13
+#define PIN_BTN_CONFIG      14
+#define PIN_DHT_SIG         15
+#define PIN_HCSR04_TRIG     16
+#define PIN_HCSR04_ECHO     17
+#define PIN_LED_GREEN       18
+#define PIN_LED_RED         19
+#define PIN_SDA_DISPLAY_RTC 21
+#define PIN_SCL_DISPLAY_RTC 22
+#define PIN_BUZZER          26
+#define PIN_VCCBUZZER       27
