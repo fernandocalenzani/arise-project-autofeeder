@@ -1,14 +1,13 @@
 ---
-BMS TECHNOLOGY
+ARISE TECHNOLOGY
 
 name: Autofeeder-IoT
 base version: 1.0.0.0
-author: BMS Technology <contato.grupobms@gmail.com>
-maintainer: BMS Technology <contato.grupobms@gmail.com>
+author: Fernando Calenzani <fernandocalenzani@gmail.com>
+maintainer: Fernando Calenzani <fernandocalenzani@gmail.com>
 sentence: automatic powder solids doser with integrated IoT
 paragraph: automatic powder solids doser with integrated IoT
 category: IoT Technology
-url: https://github.com/BMS-Technology/bms-projects
 architectures: *
 firmware-language: C++ [.cpp]
 framework: arduino [.ino]
